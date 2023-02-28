@@ -1,0 +1,7 @@
+D:\Work GB\C#\HW6\Task41\bin\Debug\Task41.exe
+D:\Work GB\C#\HW6\Task41\bin\Debug\Task41.pdb
+D:\Work GB\C#\HW6\Task41\obj\Debug\Task41.csproj.AssemblyReference.cache
+D:\Work GB\C#\HW6\Task41\obj\Debug\Task41.csproj.SuggestedBindingRedirects.cache
+D:\Work GB\C#\HW6\Task41\obj\Debug\Task41.csproj.CoreCompileInputs.cache
+D:\Work GB\C#\HW6\Task41\obj\Debug\Task41.exe
+D:\Work GB\C#\HW6\Task41\obj\Debug\Task41.pdb
